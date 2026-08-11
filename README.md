@@ -13,7 +13,7 @@
 - 🔭 I'm currently working on cloud-native and automation projects
 - 🌱 I'm always learning new tools in the DevOps and web dev space
 - 💬 Ask me about Kubernetes, Docker, CI/CD pipelines, or full-stack apps
-- 📫 Reach me at: **your.email@example.com**
+- 📫 Reach me at: **aryashresthaalpha0@example.com**
 
 ---
 
@@ -36,19 +36,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="48" width="48" />
   <img src="https://argo-cd.readthedocs.io/en/stable/assets/logo.png" height="48" width="48" />
   <img src="https://nodered.org/about/resources/media/node-red-icon.svg" height="48" width="48" />
-</p>
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
