@@ -13,7 +13,7 @@
 - 🔭 I'm currently working on cloud-native and automation projects
 - 🌱 I'm always learning new tools in the DevOps and web dev space
 - 💬 Ask me about Kubernetes, Docker, CI/CD pipelines, or full-stack apps
-- 📫 Reach me at: **aryashresthaalpha0@example.com**
+- 📫 Reach me at: **aryashresthaalpha0@gmail.com**
 
 ---
 
