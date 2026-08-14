@@ -36,6 +36,8 @@
   <img src="https://argo-cd.readthedocs.io/en/stable/assets/logo.png" height="48" width="48" />
   <img src="https://nodered.org/about/resources/media/node-red-icon.svg" height="48" width="48" />
   
+  <img src="https://cdn.simpleicons.org/mqtt" height="48" width="48" />
+  <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/mosquitto.svg" height="48" width="48" />
 </p>
 
 ---
