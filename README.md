@@ -26,7 +26,7 @@
 </p>
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,influxdb,redis" />
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,redis" />
 </p>
 
 <p align="left">
@@ -34,6 +34,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="48" width="48" />
   <img src="https://argo-cd.readthedocs.io/en/stable/assets/logo.png" height="48" width="48" />
   <img src="https://nodered.org/about/resources/media/node-red-icon.svg" height="48" width="48" />
+  <img src="https://cdn.simpleicons.org/influxdb" height="48" width="48" />
 </p>
 
 ---
