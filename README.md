@@ -1,5 +1,4 @@
 <h1 align="center">Hi there, I'm Arya Shrestha 👋</h1>
-
 <h3 align="center">DevOps Engineer | Full-Stack Developer | Automation Enthusiast</h3>
 
 <p align="center">
@@ -9,7 +8,6 @@
 ---
 
 ### 🧑‍💻 About Me
-
 - 🔭 I'm currently working on cloud-native and automation projects
 - 🌱 I'm always learning new tools in the DevOps and web dev space
 - 💬 Ask me about Kubernetes, Docker, CI/CD pipelines, or full-stack apps
@@ -28,7 +26,7 @@
 </p>
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,influxdb" />
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,influxdb,redis" />
 </p>
 
 <p align="left">
@@ -39,4 +37,3 @@
 </p>
 
 ---
-
